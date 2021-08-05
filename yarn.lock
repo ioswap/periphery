@@ -30,6 +30,16 @@
     ethers "^4.0.45"
     ganache-core "^2.10.2"
 
+"@io-swap/core@^1.0.0":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@io-swap/core/-/core-1.0.3.tgz#8d7aa83e7096f4e5d22862001bda63611505877a"
+  integrity sha512-w4XDRnvtK8ihSHOlc6q8b22G+Q1Ev+fYlA0qTSqKQsAOLvGn6BQsRInDlFPOgZZStOBXevhoKsJkIAyTKktejg==
+
+"@io-swap/lib@^1.0.0":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@io-swap/lib/-/lib-1.0.2.tgz#4c82eb66bfe021a68602cbdc82e2778264de77b9"
+  integrity sha512-PVYnKZPNGbgSvF0Inor0g7x5kdvBEjgV8ogDmhWGUWGwY3IJZT23UNlRY45BPGdrsFuWDoqgHnBS4Svd1lo8QQ==
+
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@resolver-engine/core/-/core-0.3.3.tgz#590f77d85d45bc7ecc4e06c654f41345db6ca967"
@@ -132,16 +142,6 @@
   version "12.12.35"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.35.tgz#1e61b226c14380f4384f70cfe49a65c2c553ad2b"
   integrity sha512-ASYsaKecA7TUsDrqIGPNk3JeEox0z/0XR/WsJJ8BIX/9+SkMSImQXKWfU/yBrSyc7ZSE/NPqLu36Nur0miCFfQ==
-
-"@io-swap/lib@4.0.1-alpha":
-  version "4.0.1-alpha"
-  resolved "https://registry.yarnpkg.com/@io-swap/lib/-/lib-4.0.1-alpha.tgz#2881008e55f075344675b3bca93f020b028fbd02"
-  integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
-
-"@io-swap/core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@io-swap/core/-/v2-core-1.0.0.tgz#e0fab91a7d53e8cafb5326ae4ca18351116b0844"
-  integrity sha512-BJiXrBGnN8mti7saW49MXwxDBRFiWemGetE58q8zgfnPPzQKq55ADltEILqOt6VFZ22kVeVKbF8gVd8aY3l7pA==
 
 "@web3-js/scrypt-shim@^0.1.0":
   version "0.1.0"
